@@ -1,5 +1,5 @@
 /**
- * New node file
+ * New node file  test
  */
 (
 		function(a){
