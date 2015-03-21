@@ -1,4 +1,4 @@
-// create a new record
+// create a new record,
 function doPost(datain)
 {
     try {
