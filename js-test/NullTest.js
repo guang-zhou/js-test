@@ -1,4 +1,4 @@
-/**
+/***
  * null test
  */
 var a = null,b=null;
