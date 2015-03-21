@@ -1,4 +1,4 @@
-// create a new record,this is a test zh
+// create a new record,this is a test 
 function doPost(datain)
 {
     try {
