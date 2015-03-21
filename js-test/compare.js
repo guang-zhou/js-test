@@ -1,4 +1,4 @@
-// create a new record,this is a test more
+// create a new record,this is a 
 function doPost(datain)
 {
     try {
