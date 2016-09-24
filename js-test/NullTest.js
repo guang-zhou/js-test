@@ -1,5 +1,5 @@
 /**
- * null test 3
+ * null test 3 4
  */
 var a = null,b=null;//
 if(a == b){
