@@ -1,7 +1,7 @@
 /**
  * null test 3
  */
-var a = null,b=null;
+var a = null,b=null;//
 if(a == b){
 	console.log('null equals each other');
 }else if(a === b){
